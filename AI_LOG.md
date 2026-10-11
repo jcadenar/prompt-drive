@@ -1,6 +1,7 @@
 # Registro de uso de IA
 
 **Asistentes usados**
+
 Se usó Claude Opus 5.5 y Claude Code (modelo Claude Opus 5.5) dentro de VS Code, en primer lugar para entender la estructura del proyecto y cómo funcionaba, después para ubicar qué archivos debía y podía modificar y cuáles no. Elegí dos features y el asistente de IA se encargó de implementarlas, mientras yo testeaba lo que hacía, depuraba con capturas y le indicaba cambios a realizar. 
 
 **Tres prompts que me sirvieron** (pégalos o resúmelos, y di qué salió de cada uno):

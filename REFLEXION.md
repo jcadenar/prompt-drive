@@ -1,8 +1,11 @@
 # Reflexión (300 a 500 palabras)
 
 **Equipo:** Julian Esteban Cadena Rojas (COH2)  
+
 **Integrantes:** Julian Esteban Cadena Rojas
+
 **Features entregadas (ids):** defrost, ambient_light
+
 **Enlace al pull request:** https://github.com/ignacioalvmar/prompt-drive/pull/24
 
 ## Qué quería lograr
